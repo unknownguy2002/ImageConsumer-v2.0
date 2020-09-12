@@ -22,7 +22,7 @@
     "discord.js": "^11.5.1",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "nsfwjs": "^2.0.0",
     "uid": "0.0.2",
     "urban": "^0.3.2"
